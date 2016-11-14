@@ -18,6 +18,10 @@ Technologies used are:
 
 You can check it out [here](https://plyr2.herokuapp.com)
 
+![screenshot_20161114-151824](https://cloud.githubusercontent.com/assets/16115618/20270309/808c0f14-aa7e-11e6-8669-72b3aeaccb09.png)
+![screenshot_20161114-151700](https://cloud.githubusercontent.com/assets/16115618/20270314/82b789ee-aa7e-11e6-9e2e-3af87ef6d786.png)
+![screenshot_20161114-151331](https://cloud.githubusercontent.com/assets/16115618/20270316/84e2821e-aa7e-11e6-8901-ec8893da469a.png)
+
 If you want to run it locally follow these instructions:
 
 1. Fork / clone this repo: `git clone https://github.com/peter-miklos/plyr2`
